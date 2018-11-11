@@ -5,8 +5,15 @@
     <link>http://www.nature.com/subjects/environmental-microbiology</link>
     <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
     <ttl>60</ttl>
-    <pubDate>Fri, 9 Nov 2018 03:30:47 +0000</pubDate>
-    <lastBuildDate>Fri, 9 Nov 2018 03:30:47 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Nov 2018 03:30:46 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Nov 2018 03:30:46 +0000</lastBuildDate>
+    <item>
+      <title>Metagenomics meets read clouds</title>
+      <pubDate>Fri, 9 Nov 2018 00:00:00 +0000</pubDate>
+      <link>http://www.nature.com/nbt/journal/v36/n11/full/nbt.4284.html?WT.feed_name=subjects_environmental-microbiology</link>
+      <description/>
+      <guid>http://www.nature.com/nbt/journal/v36/n11/full/nbt.4284.html?WT.feed_name=subjects_environmental-microbiology</guid>
+    </item>
     <item>
       <title>Ecological selection for small microbial genomes along a temperate-to-thermal soil gradient</title>
       <pubDate>Mon, 5 Nov 2018 00:00:00 +0000</pubDate>
@@ -127,18 +134,18 @@
       <guid>http://www.nature.com/articles/s42003-018-0167-7?WT.feed_name=subjects_environmental-microbiology</guid>
     </item>
     <item>
-      <title>High-quality genome sequences of uncultured microbes by assembly of read clouds</title>
-      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      <link>http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.4266.html?WT.feed_name=subjects_environmental-microbiology</link>
-      <description/>
-      <guid>http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.4266.html?WT.feed_name=subjects_environmental-microbiology</guid>
-    </item>
-    <item>
       <title>Long-term succession in a coal seam microbiome during in situ biostimulation of coalbed-methane generation</title>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
       <link>http://www.nature.com/articles/s41396-018-0296-5?WT.feed_name=subjects_environmental-microbiology</link>
       <description/>
       <guid>http://www.nature.com/articles/s41396-018-0296-5?WT.feed_name=subjects_environmental-microbiology</guid>
+    </item>
+    <item>
+      <title>High-quality genome sequences of uncultured microbes by assembly of read clouds</title>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <link>http://www.nature.com/nbt/journal/v36/n11/full/nbt.4266.html?WT.feed_name=subjects_environmental-microbiology</link>
+      <description/>
+      <guid>http://www.nature.com/nbt/journal/v36/n11/full/nbt.4266.html?WT.feed_name=subjects_environmental-microbiology</guid>
     </item>
     <item>
       <title>A phylogenomic and ecological analysis of the globally abundant Marine Group II archaea (Ca. Poseidoniales ord. nov.)</title>
@@ -209,13 +216,6 @@
       <link>http://www.nature.com/articles/s41522-018-0066-1?WT.feed_name=subjects_environmental-microbiology</link>
       <description/>
       <guid>http://www.nature.com/articles/s41522-018-0066-1?WT.feed_name=subjects_environmental-microbiology</guid>
-    </item>
-    <item>
-      <title>Monitoring of microbial dynamics in a drinking water distribution system using the culture-free, user-friendly, MYcrobiota platform</title>
-      <pubDate>Wed, 3 Oct 2018 00:00:00 +0000</pubDate>
-      <link>http://www.nature.com/articles/s41598-018-32987-x?WT.feed_name=subjects_environmental-microbiology</link>
-      <description/>
-      <guid>http://www.nature.com/articles/s41598-018-32987-x?WT.feed_name=subjects_environmental-microbiology</guid>
     </item>
   </channel>
 </rss>
