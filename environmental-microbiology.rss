@@ -5,8 +5,15 @@
     <link>http://www.nature.com/subjects/environmental-microbiology</link>
     <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
     <ttl>60</ttl>
-    <pubDate>Wed, 14 Nov 2018 03:30:46 +0000</pubDate>
-    <lastBuildDate>Wed, 14 Nov 2018 03:30:46 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Nov 2018 03:30:46 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Nov 2018 03:30:46 +0000</lastBuildDate>
+    <item>
+      <title>Microbiomes and chemical components of feed water and membrane-attached biofilm in reverse osmosis system to treat membrane bioreactor effluents</title>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      <link>http://www.nature.com/articles/s41598-018-35156-2?WT.feed_name=subjects_environmental-microbiology</link>
+      <description/>
+      <guid>http://www.nature.com/articles/s41598-018-35156-2?WT.feed_name=subjects_environmental-microbiology</guid>
+    </item>
     <item>
       <title>Metagenomics meets read clouds</title>
       <pubDate>Fri, 9 Nov 2018 00:00:00 +0000</pubDate>
@@ -209,13 +216,6 @@
       <link>http://www.nature.com/articles/s41598-018-33105-7?WT.feed_name=subjects_environmental-microbiology</link>
       <description/>
       <guid>http://www.nature.com/articles/s41598-018-33105-7?WT.feed_name=subjects_environmental-microbiology</guid>
-    </item>
-    <item>
-      <title>Rhamnolipids from Pseudomonas aeruginosa disperse the biofilms of sulfate-reducing bacteria</title>
-      <pubDate>Wed, 3 Oct 2018 00:00:00 +0000</pubDate>
-      <link>http://www.nature.com/articles/s41522-018-0066-1?WT.feed_name=subjects_environmental-microbiology</link>
-      <description/>
-      <guid>http://www.nature.com/articles/s41522-018-0066-1?WT.feed_name=subjects_environmental-microbiology</guid>
     </item>
   </channel>
 </rss>
