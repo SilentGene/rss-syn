@@ -5,8 +5,15 @@
     <link>http://www.nature.com/subjects/environmental-microbiology</link>
     <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
     <ttl>60</ttl>
-    <pubDate>Fri, 7 Dec 2018 03:30:47 +0000</pubDate>
-    <lastBuildDate>Fri, 7 Dec 2018 03:30:47 +0000</lastBuildDate>
+    <pubDate>Sat, 8 Dec 2018 03:30:47 +0000</pubDate>
+    <lastBuildDate>Sat, 8 Dec 2018 03:30:47 +0000</lastBuildDate>
+    <item>
+      <title>Selfish, sharing and scavenging bacteria in the Atlantic Ocean: a biogeographical study of bacterial substrate utilisation</title>
+      <pubDate>Fri, 7 Dec 2018 00:00:00 +0000</pubDate>
+      <link>http://www.nature.com/articles/s41396-018-0326-3?WT.feed_name=subjects_environmental-microbiology</link>
+      <description/>
+      <guid>http://www.nature.com/articles/s41396-018-0326-3?WT.feed_name=subjects_environmental-microbiology</guid>
+    </item>
     <item>
       <title>Daily changes in phytoplankton lipidomes reveal mechanisms of energy storage in the open ocean</title>
       <pubDate>Wed, 5 Dec 2018 00:00:00 +0000</pubDate>
@@ -209,13 +216,6 @@
       <link>http://www.nature.com/articles/s41396-018-0296-5?WT.feed_name=subjects_environmental-microbiology</link>
       <description/>
       <guid>http://www.nature.com/articles/s41396-018-0296-5?WT.feed_name=subjects_environmental-microbiology</guid>
-    </item>
-    <item>
-      <title>High-quality genome sequences of uncultured microbes by assembly of read clouds</title>
-      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      <link>http://www.nature.com/nbt/journal/v36/n11/full/nbt.4266.html?WT.feed_name=subjects_environmental-microbiology</link>
-      <description/>
-      <guid>http://www.nature.com/nbt/journal/v36/n11/full/nbt.4266.html?WT.feed_name=subjects_environmental-microbiology</guid>
     </item>
   </channel>
 </rss>
