@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Tue, 15 Jan 2019 01:48:06 +0000</pubDate>
-        <lastBuildDate>Tue, 15 Jan 2019 01:48:06 +0000</lastBuildDate>
+        <pubDate>Thu, 17 Jan 2019 02:51:43 +0000</pubDate>
+        <lastBuildDate>Thu, 17 Jan 2019 02:51:43 +0000</lastBuildDate>
+        
+            <item>
+                <title>Anaerobic degradation of xenobiotic isophthalate by the fermenting bacterium Syntrophorhabdus aromaticivorans</title>
+                <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0348-5?WT.feed_name=subjects_environmental-microbiology</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0348-5?WT.feed_name=subjects_environmental-microbiology</guid>
+            </item>
         
             <item>
                 <title>Functional annotation of orthologs in metagenomes: a case study of genes for the transformation of oceanic dimethylsulfoniopropionate</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-018-34687-y?WT.feed_name=subjects_environmental-microbiology</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-018-34687-y?WT.feed_name=subjects_environmental-microbiology</guid>
-            </item>
-        
-            <item>
-                <title>A multiscale study of fungal endophyte communities of the foliar endosphere of native rubber trees in Eastern Amazon</title>
-                <pubDate>Thu, 1 Nov 2018 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-018-34619-w?WT.feed_name=subjects_environmental-microbiology</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-018-34619-w?WT.feed_name=subjects_environmental-microbiology</guid>
             </item>
         
     </channel>
