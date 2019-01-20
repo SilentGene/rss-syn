@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 17 Jan 2019 02:51:43 +0000</pubDate>
-        <lastBuildDate>Thu, 17 Jan 2019 02:51:43 +0000</lastBuildDate>
+        <pubDate>Sun, 20 Jan 2019 04:13:27 +0000</pubDate>
+        <lastBuildDate>Sun, 20 Jan 2019 04:13:27 +0000</lastBuildDate>
+        
+            <item>
+                <title>Metabolic diversity within the globally abundant Marine Group II Euryarchaea offers insight into ecological patterns</title>
+                <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41467-018-07840-4?WT.feed_name=subjects_environmental-microbiology</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41467-018-07840-4?WT.feed_name=subjects_environmental-microbiology</guid>
+            </item>
         
             <item>
                 <title>Anaerobic degradation of xenobiotic isophthalate by the fermenting bacterium Syntrophorhabdus aromaticivorans</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41396-018-0307-6?WT.feed_name=subjects_environmental-microbiology</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41396-018-0307-6?WT.feed_name=subjects_environmental-microbiology</guid>
-            </item>
-        
-            <item>
-                <title>Proteomics based analysis of the nicotine catabolism in Paenarthrobacter nicotinovorans pAO1</title>
-                <pubDate>Fri, 2 Nov 2018 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-018-34687-y?WT.feed_name=subjects_environmental-microbiology</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-018-34687-y?WT.feed_name=subjects_environmental-microbiology</guid>
             </item>
         
     </channel>
