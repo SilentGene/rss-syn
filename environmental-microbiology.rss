@@ -5,8 +5,32 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 24 Jan 2019 06:01:36 +0000</pubDate>
-        <lastBuildDate>Thu, 24 Jan 2019 06:01:36 +0000</lastBuildDate>
+        <pubDate>Fri, 25 Jan 2019 05:47:03 +0000</pubDate>
+        <lastBuildDate>Fri, 25 Jan 2019 05:47:03 +0000</lastBuildDate>
+        
+            <item>
+                <title>Dynamics of the gut microbiota in developmental stages of Litopenaeus vannamei reveal its association with body weight</title>
+                <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-018-37042-3</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-018-37042-3</guid>
+            </item>
+        
+            <item>
+                <title>The co-transfer of plasmid-borne colistin-resistant genes mcr-1 and mcr-3.5, the carbapenemase gene blaNDM-5 and the 16S methylase gene rmtB from Escherichia coli</title>
+                <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-018-37125-1</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-018-37125-1</guid>
+            </item>
+        
+            <item>
+                <title>EnABLe: An agent-based model to understand Listeria dynamics in food processing facilities</title>
+                <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-018-36654-z</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-018-36654-z</guid>
+            </item>
         
             <item>
                 <title>Detection of a microbial source tracking marker by isothermal helicase-dependent amplification and a nucleic acid lateral-flow strip test</title>
@@ -222,30 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-018-35629-4</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-018-35629-4</guid>
-            </item>
-        
-            <item>
-                <title>Mycorrhizal fungal community structure in tropical humid soils under fallow and cropping conditions</title>
-                <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-018-34736-6</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-018-34736-6</guid>
-            </item>
-        
-            <item>
-                <title>The structure and function of the global citrus rhizosphere microbiome</title>
-                <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41467-018-07343-2</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41467-018-07343-2</guid>
-            </item>
-        
-            <item>
-                <title>Transcriptomic analysis of Bifidobacterium longum subsp. longum BBMN68 in response to oxidative shock</title>
-                <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-018-35286-7</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-018-35286-7</guid>
             </item>
         
     </channel>
