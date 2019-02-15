@@ -5,8 +5,40 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Tue, 12 Feb 2019 04:12:47 +0000</pubDate>
-        <lastBuildDate>Tue, 12 Feb 2019 04:12:47 +0000</lastBuildDate>
+        <pubDate>Fri, 15 Feb 2019 02:29:05 +0000</pubDate>
+        <lastBuildDate>Fri, 15 Feb 2019 02:29:05 +0000</lastBuildDate>
+        
+            <item>
+                <title>Enrichment of bacteria and alginate lyase genes potentially involved in brown alga degradation in the gut of marine gastropods</title>
+                <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-018-38356-y</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-018-38356-y</guid>
+            </item>
+        
+            <item>
+                <title>Draft Genome Sequence of Chromatium okenii Isolated from the Stratified Alpine Lake Cadagno</title>
+                <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-018-38202-1</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-018-38202-1</guid>
+            </item>
+        
+            <item>
+                <title>Moving together</title>
+                <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41579-019-0165-x</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41579-019-0165-x</guid>
+            </item>
+        
+            <item>
+                <title>Bacteria and archaea on Earth and their abundance in biofilms</title>
+                <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41579-019-0158-9</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41579-019-0158-9</guid>
+            </item>
         
             <item>
                 <title>Co-culture and biogeography of Prochlorococcus and SAR11</title>
@@ -214,38 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-018-37125-1</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-018-37125-1</guid>
-            </item>
-        
-            <item>
-                <title>EnABLe: An agent-based model to understand Listeria dynamics in food processing facilities</title>
-                <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-018-36654-z</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-018-36654-z</guid>
-            </item>
-        
-            <item>
-                <title>Detection of a microbial source tracking marker by isothermal helicase-dependent amplification and a nucleic acid lateral-flow strip test</title>
-                <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-018-36749-7</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-018-36749-7</guid>
-            </item>
-        
-            <item>
-                <title>Harnessing undomesticated life</title>
-                <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41564-018-0355-8</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41564-018-0355-8</guid>
-            </item>
-        
-            <item>
-                <title>Illuminating the catalytic core of ectoine synthase through structural and biochemical analysis</title>
-                <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-018-36247-w</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-018-36247-w</guid>
             </item>
         
     </channel>
