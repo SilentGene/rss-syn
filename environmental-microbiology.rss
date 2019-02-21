@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Wed, 20 Feb 2019 03:20:09 +0000</pubDate>
-        <lastBuildDate>Wed, 20 Feb 2019 03:20:09 +0000</lastBuildDate>
+        <pubDate>Thu, 21 Feb 2019 02:59:32 +0000</pubDate>
+        <lastBuildDate>Thu, 21 Feb 2019 02:59:32 +0000</lastBuildDate>
+        
+            <item>
+                <title>A variety of hydrogenotrophic enrichment cultures catalyse cathodic reactions</title>
+                <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-018-38006-3</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-018-38006-3</guid>
+            </item>
         
             <item>
                 <title>Sources and selection of snow-specific microbial communities in a Greenlandic sea ice snow cover</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-018-37065-w</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-018-37065-w</guid>
-            </item>
-        
-            <item>
-                <title>Isolation and characterization of Sphingomonadaceae from fouled membranes</title>
-                <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41522-018-0074-1</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41522-018-0074-1</guid>
             </item>
         
     </channel>
