@@ -5,8 +5,32 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 21 Feb 2019 02:59:32 +0000</pubDate>
-        <lastBuildDate>Thu, 21 Feb 2019 02:59:32 +0000</lastBuildDate>
+        <pubDate>Sat, 23 Feb 2019 02:24:01 +0000</pubDate>
+        <lastBuildDate>Sat, 23 Feb 2019 02:24:01 +0000</lastBuildDate>
+        
+            <item>
+                <title>Bacterial release from pipe biofilm in a full-scale drinking water distribution system</title>
+                <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41522-019-0082-9</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41522-019-0082-9</guid>
+            </item>
+        
+            <item>
+                <title>Towards a quantitative view of the global ubiquity of biofilms</title>
+                <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41579-019-0162-0</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41579-019-0162-0</guid>
+            </item>
+        
+            <item>
+                <title>Nitrogen–phosphorus-associated metabolic activities during the development of a cyanobacterial bloom revealed by metatranscriptomics</title>
+                <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-38481-2</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-38481-2</guid>
+            </item>
         
             <item>
                 <title>A variety of hydrogenotrophic enrichment cultures catalyse cathodic reactions</title>
@@ -222,30 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-018-36165-x</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-018-36165-x</guid>
-            </item>
-        
-            <item>
-                <title>Mycobacterial species and their contribution to cholesterol degradation in wastewater treatment plants</title>
-                <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-018-37332-w</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-018-37332-w</guid>
-            </item>
-        
-            <item>
-                <title>Feasible and effective reuse of municipal sludge for vegetation restoration: physiochemical characteristics and microbial diversity</title>
-                <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-018-37338-4</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-018-37338-4</guid>
-            </item>
-        
-            <item>
-                <title>Dinoflagellate nucleus contains an extensive endomembrane network, the nuclear net</title>
-                <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-018-37065-w</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-018-37065-w</guid>
             </item>
         
     </channel>
