@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Tue, 26 Feb 2019 03:28:53 +0000</pubDate>
-        <lastBuildDate>Tue, 26 Feb 2019 03:28:53 +0000</lastBuildDate>
+        <pubDate>Wed, 27 Feb 2019 03:12:41 +0000</pubDate>
+        <lastBuildDate>Wed, 27 Feb 2019 03:12:41 +0000</lastBuildDate>
+        
+            <item>
+                <title>Molecular evidence for novel mercury methylating microorganisms in sulfate-impacted lakes</title>
+                <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0376-1</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0376-1</guid>
+            </item>
         
             <item>
                 <title>The bacterial community of Quesnel Lake sediments impacted by a catastrophic mine tailings spill differ in composition from those at undisturbed locations – two years post-spill</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-018-37903-x</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-018-37903-x</guid>
-            </item>
-        
-            <item>
-                <title>Anaerobic degradation of hexadecane and phenanthrene coupled to sulfate reduction by enriched consortia from northern Gulf of Mexico seafloor sediment</title>
-                <pubDate>Mon, 4 Feb 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-018-36567-x</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-018-36567-x</guid>
             </item>
         
     </channel>
