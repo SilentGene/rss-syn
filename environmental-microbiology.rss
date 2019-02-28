@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Wed, 27 Feb 2019 03:12:41 +0000</pubDate>
-        <lastBuildDate>Wed, 27 Feb 2019 03:12:41 +0000</lastBuildDate>
+        <pubDate>Thu, 28 Feb 2019 02:55:22 +0000</pubDate>
+        <lastBuildDate>Thu, 28 Feb 2019 02:55:22 +0000</lastBuildDate>
+        
+            <item>
+                <title>Man-made microbial resistances in built environments</title>
+                <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41467-019-08864-0</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41467-019-08864-0</guid>
+            </item>
         
             <item>
                 <title>Molecular evidence for novel mercury methylating microorganisms in sulfate-impacted lakes</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-018-37681-6</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-018-37681-6</guid>
-            </item>
-        
-            <item>
-                <title>Oil-Spill Triggered Shift in Indigenous Microbial Structure and Functional Dynamics in Different Marine Environmental Matrices</title>
-                <pubDate>Mon, 4 Feb 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-018-37903-x</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-018-37903-x</guid>
             </item>
         
     </channel>
