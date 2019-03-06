@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Tue, 5 Mar 2019 02:48:08 +0000</pubDate>
-        <lastBuildDate>Tue, 5 Mar 2019 02:48:08 +0000</lastBuildDate>
+        <pubDate>Wed, 6 Mar 2019 02:18:40 +0000</pubDate>
+        <lastBuildDate>Wed, 6 Mar 2019 02:18:40 +0000</lastBuildDate>
+        
+            <item>
+                <title>Calcium Involved Directional Organization of Polymer Chains in Polyester Nanogranules in Bacterial Cells</title>
+                <pubDate>Tue, 5 Mar 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-40097-5</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-40097-5</guid>
+            </item>
         
             <item>
                 <title>Co-occurring genomic capacity for anaerobic methane and dissimilatory sulfur metabolisms discovered in the Korarchaeota</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-018-37559-7</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-018-37559-7</guid>
-            </item>
-        
-            <item>
-                <title>Metabarcoding reveals that rhizospheric microbiota of Quercus pyrenaica is composed by a relatively small number of bacterial taxa highly abundant</title>
-                <pubDate>Fri, 8 Feb 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-018-38123-z</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-018-38123-z</guid>
             </item>
         
     </channel>
