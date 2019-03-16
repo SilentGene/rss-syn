@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Fri, 15 Mar 2019 02:21:32 +0000</pubDate>
-        <lastBuildDate>Fri, 15 Mar 2019 02:21:32 +0000</lastBuildDate>
+        <pubDate>Sat, 16 Mar 2019 02:26:39 +0000</pubDate>
+        <lastBuildDate>Sat, 16 Mar 2019 02:26:39 +0000</lastBuildDate>
+        
+            <item>
+                <title>Continuous Butanol Fermentation of Dilute Acid-Pretreated De-oiled Rice Bran by Clostridium acetobutylicum YM1</title>
+                <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-40840-y</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-40840-y</guid>
+            </item>
         
             <item>
                 <title>Two Chloroflexi classes independently evolved the ability to persist on atmospheric hydrogen and carbon monoxide</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41467-019-08864-0</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41467-019-08864-0</guid>
-            </item>
-        
-            <item>
-                <title>Molecular evidence for novel mercury methylating microorganisms in sulfate-impacted lakes</title>
-                <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0376-1</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0376-1</guid>
             </item>
         
     </channel>
