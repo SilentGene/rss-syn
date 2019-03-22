@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 21 Mar 2019 02:54:05 +0000</pubDate>
-        <lastBuildDate>Thu, 21 Mar 2019 02:54:05 +0000</lastBuildDate>
+        <pubDate>Fri, 22 Mar 2019 02:45:16 +0000</pubDate>
+        <lastBuildDate>Fri, 22 Mar 2019 02:45:16 +0000</lastBuildDate>
+        
+            <item>
+                <title>On the nature of “skeletal” biofilm patterns, “hidden” heterogeneity and the role of bubbles to reveal them</title>
+                <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41522-019-0085-6</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41522-019-0085-6</guid>
+            </item>
         
             <item>
                 <title>Resolving the individual contribution of key microbial populations to enhanced biological phosphorus removal with Raman–FISH</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-40512-x</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-40512-x</guid>
-            </item>
-        
-            <item>
-                <title>Calcium Involved Directional Organization of Polymer Chains in Polyester Nanogranules in Bacterial Cells</title>
-                <pubDate>Tue, 5 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-40097-5</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-40097-5</guid>
             </item>
         
     </channel>
