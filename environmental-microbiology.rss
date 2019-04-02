@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Mon, 1 Apr 2019 03:29:56 +0000</pubDate>
-        <lastBuildDate>Mon, 1 Apr 2019 03:29:56 +0000</lastBuildDate>
+        <pubDate>Tue, 2 Apr 2019 02:34:50 +0000</pubDate>
+        <lastBuildDate>Tue, 2 Apr 2019 02:34:50 +0000</lastBuildDate>
+        
+            <item>
+                <title>Casting light on Asgardarchaeota metabolism in a sunlit microoxic niche</title>
+                <pubDate>Mon, 1 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41564-019-0404-y</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41564-019-0404-y</guid>
+            </item>
         
             <item>
                 <title>On the nature of “skeletal” biofilm patterns, “hidden” heterogeneity and the role of bubbles to reveal them</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-40199-0</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-40199-0</guid>
-            </item>
-        
-            <item>
-                <title>Production and Anticancer Activity of an L-Asparaginase from Bacillus licheniformis Isolated from the Red Sea, Saudi Arabia</title>
-                <pubDate>Wed, 6 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-40512-x</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-40512-x</guid>
             </item>
         
     </channel>
