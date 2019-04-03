@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Tue, 2 Apr 2019 02:34:50 +0000</pubDate>
-        <lastBuildDate>Tue, 2 Apr 2019 02:34:50 +0000</lastBuildDate>
+        <pubDate>Wed, 3 Apr 2019 03:03:21 +0000</pubDate>
+        <lastBuildDate>Wed, 3 Apr 2019 03:03:21 +0000</lastBuildDate>
+        
+            <item>
+                <title>Phosphate deficiency induced biofilm formation of Burkholderia on insoluble phosphate granules plays a pivotal role for maximum release of soluble phosphate</title>
+                <pubDate>Tue, 2 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-41726-9</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-41726-9</guid>
+            </item>
         
             <item>
                 <title>Casting light on Asgardarchaeota metabolism in a sunlit microoxic niche</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41396-019-0382-3</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41396-019-0382-3</guid>
-            </item>
-        
-            <item>
-                <title>Microbial Degradation of Nicotinamide by a Strain Alcaligenes sp. P156</title>
-                <pubDate>Wed, 6 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-40199-0</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-40199-0</guid>
             </item>
         
     </channel>
