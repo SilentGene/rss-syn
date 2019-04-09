@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Mon, 8 Apr 2019 04:19:31 +0000</pubDate>
-        <lastBuildDate>Mon, 8 Apr 2019 04:19:31 +0000</lastBuildDate>
+        <pubDate>Tue, 9 Apr 2019 04:12:48 +0000</pubDate>
+        <lastBuildDate>Tue, 9 Apr 2019 04:12:48 +0000</lastBuildDate>
+        
+            <item>
+                <title>Ability of bifidobacteria to metabolize chitin-glucan and its impact on the gut microbiota</title>
+                <pubDate>Mon, 8 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-42257-z</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-42257-z</guid>
+            </item>
         
             <item>
                 <title>High proportions of bacteria are culturable across major biomes</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-40420-0</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-40420-0</guid>
-            </item>
-        
-            <item>
-                <title>Biogeography of Soil Bacterial Networks along a Gradient of Cropping Intensity</title>
-                <pubDate>Thu, 7 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-40422-y</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-40422-y</guid>
             </item>
         
     </channel>
