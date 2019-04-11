@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Wed, 10 Apr 2019 03:39:45 +0000</pubDate>
-        <lastBuildDate>Wed, 10 Apr 2019 03:39:45 +0000</lastBuildDate>
+        <pubDate>Thu, 11 Apr 2019 03:55:49 +0000</pubDate>
+        <lastBuildDate>Thu, 11 Apr 2019 03:55:49 +0000</lastBuildDate>
+        
+            <item>
+                <title>Tropical forest conversion to rubber plantation affects soil micro- &amp; mesofaunal community &amp; diversity</title>
+                <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-42333-4</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-42333-4</guid>
+            </item>
         
             <item>
                 <title>Ability of bifidobacteria to metabolize chitin-glucan and its impact on the gut microbiota</title>
@@ -177,7 +185,7 @@
             </item>
         
             <item>
-                <title>Novel insights from uncultivated genomes of the global human gut microbiome</title>
+                <title>New insights from uncultivated genomes of the global human gut microbiome</title>
                 <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
                 <link>https://www.nature.com/articles/s41586-019-1058-x</link>
                 <description/>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41467-019-08853-3</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41467-019-08853-3</guid>
-            </item>
-        
-            <item>
-                <title>Multi-state study of Enterobacteriaceae harboring extended-spectrum beta-lactamase and carbapenemase genes in U.S. drinking water</title>
-                <pubDate>Fri, 8 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-40420-0</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-40420-0</guid>
             </item>
         
     </channel>
