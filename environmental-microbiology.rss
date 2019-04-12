@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 11 Apr 2019 03:55:49 +0000</pubDate>
-        <lastBuildDate>Thu, 11 Apr 2019 03:55:49 +0000</lastBuildDate>
+        <pubDate>Fri, 12 Apr 2019 02:44:35 +0000</pubDate>
+        <lastBuildDate>Fri, 12 Apr 2019 02:44:35 +0000</lastBuildDate>
+        
+            <item>
+                <title>A new type of DNA phosphorothioation-based antiviral system in archaea</title>
+                <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41467-019-09390-9</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41467-019-09390-9</guid>
+            </item>
         
             <item>
                 <title>Tropical forest conversion to rubber plantation affects soil micro- &amp; mesofaunal community &amp; diversity</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-40389-w</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-40389-w</guid>
-            </item>
-        
-            <item>
-                <title>Global monitoring of antimicrobial resistance based on metagenomics analyses of urban sewage</title>
-                <pubDate>Fri, 8 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41467-019-08853-3</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41467-019-08853-3</guid>
             </item>
         
     </channel>
