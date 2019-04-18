@@ -5,8 +5,24 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Wed, 17 Apr 2019 02:31:38 +0000</pubDate>
-        <lastBuildDate>Wed, 17 Apr 2019 02:31:38 +0000</lastBuildDate>
+        <pubDate>Thu, 18 Apr 2019 04:20:51 +0000</pubDate>
+        <lastBuildDate>Thu, 18 Apr 2019 04:20:51 +0000</lastBuildDate>
+        
+            <item>
+                <title>Microbial Community Dynamics During Lake Ice Freezing</title>
+                <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-42609-9</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-42609-9</guid>
+            </item>
+        
+            <item>
+                <title>Uncovering the hidden marine sponge microbiome by applying a multi-primer approach</title>
+                <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-42694-w</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-42694-w</guid>
+            </item>
         
             <item>
                 <title>Antimicrobial agent susceptibilities of Legionella pneumophila MLVA-8 genotypes</title>
@@ -230,22 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-40910-1</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-40910-1</guid>
-            </item>
-        
-            <item>
-                <title>Physiological adaptations to serpentinization in the Samail Ophiolite, Oman</title>
-                <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0391-2</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0391-2</guid>
-            </item>
-        
-            <item>
-                <title>Proteotyping as alternate typing method to differentiate Campylobacter coli clades</title>
-                <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-40842-w</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-40842-w</guid>
             </item>
         
     </channel>
