@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Fri, 19 Apr 2019 03:43:51 +0000</pubDate>
-        <lastBuildDate>Fri, 19 Apr 2019 03:43:51 +0000</lastBuildDate>
+        <pubDate>Sat, 20 Apr 2019 03:41:07 +0000</pubDate>
+        <lastBuildDate>Sat, 20 Apr 2019 03:41:07 +0000</lastBuildDate>
+        
+            <item>
+                <title>Comparative analysis of intestinal bacteria among venom secretion and non-secrection snakes</title>
+                <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-42787-6</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-42787-6</guid>
+            </item>
         
             <item>
                 <title>Publisher Correction: Nitric oxide-dependent anaerobic ammonium oxidation</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41579-019-0160-2</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41579-019-0160-2</guid>
-            </item>
-        
-            <item>
-                <title>New insights from uncultivated genomes of the global human gut microbiome</title>
-                <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41586-019-1058-x</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41586-019-1058-x</guid>
             </item>
         
     </channel>
