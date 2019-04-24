@@ -5,8 +5,32 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Tue, 23 Apr 2019 03:17:46 +0000</pubDate>
-        <lastBuildDate>Tue, 23 Apr 2019 03:17:46 +0000</lastBuildDate>
+        <pubDate>Wed, 24 Apr 2019 03:23:58 +0000</pubDate>
+        <lastBuildDate>Wed, 24 Apr 2019 03:23:58 +0000</lastBuildDate>
+        
+            <item>
+                <title>Low yield and abiotic origin of N2O formed by the complete nitrifier Nitrospira inopinata</title>
+                <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41467-019-09790-x</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41467-019-09790-x</guid>
+            </item>
+        
+            <item>
+                <title>The extracellular matrix protects Bacillus subtilis colonies from Pseudomonas invasion and modulates plant co-colonization</title>
+                <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41467-019-09944-x</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41467-019-09944-x</guid>
+            </item>
+        
+            <item>
+                <title>Habitat-dependent composition of bacterial and fungal communities in biological soil crusts from Oman</title>
+                <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-42911-6</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-42911-6</guid>
+            </item>
         
             <item>
                 <title>Comparative analysis of intestinal bacteria among venom secretion and non-secrection snakes</title>
@@ -222,30 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-40970-3</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-40970-3</guid>
-            </item>
-        
-            <item>
-                <title>Composition and Dynamics of the Activated Sludge Microbiome during Seasonal Nitrification Failure</title>
-                <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-40872-4</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-40872-4</guid>
-            </item>
-        
-            <item>
-                <title>Soil microbial responses to drought and exotic plants shift carbon metabolism</title>
-                <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0389-9</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0389-9</guid>
-            </item>
-        
-            <item>
-                <title>The microbiomes of deep-sea hydrothermal vents: distributed globally, shaped locally</title>
-                <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41579-019-0160-2</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41579-019-0160-2</guid>
             </item>
         
     </channel>
