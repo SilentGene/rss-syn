@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Tue, 30 Apr 2019 03:54:57 +0000</pubDate>
-        <lastBuildDate>Tue, 30 Apr 2019 03:54:57 +0000</lastBuildDate>
+        <pubDate>Wed, 1 May 2019 04:42:00 +0000</pubDate>
+        <lastBuildDate>Wed, 1 May 2019 04:42:00 +0000</lastBuildDate>
+        
+            <item>
+                <title>Differences in resource use lead to coexistence of seed-transmitted microbial populations</title>
+                <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-42865-9</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-42865-9</guid>
+            </item>
         
             <item>
                 <title>A new widespread subclass of carbonic anhydrase in marine phytoplankton</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-38789-z</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-38789-z</guid>
-            </item>
-        
-            <item>
-                <title>Forfeiting the priority effect: turnover defines biofilm community succession</title>
-                <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0396-x</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0396-x</guid>
             </item>
         
     </channel>
