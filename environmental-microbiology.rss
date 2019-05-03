@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 2 May 2019 04:07:46 +0000</pubDate>
-        <lastBuildDate>Thu, 2 May 2019 04:07:46 +0000</lastBuildDate>
+        <pubDate>Fri, 3 May 2019 04:15:57 +0000</pubDate>
+        <lastBuildDate>Fri, 3 May 2019 04:15:57 +0000</lastBuildDate>
+        
+            <item>
+                <title>Bio-Fenton reaction involved in the cleavage of the ethoxylate chain of nonionic surfactants by dihydrolipoamide dehydrogenase from Pseudomonas nitroreducens TX1</title>
+                <pubDate>Thu, 2 May 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-43266-8</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-43266-8</guid>
+            </item>
         
             <item>
                 <title>Native soil microorganisms hinder the soil enrichment with antibiotic resistance genes following manure applications</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41467-019-09303-w</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41467-019-09303-w</guid>
-            </item>
-        
-            <item>
-                <title>Characterization of the gut microbiota of invasive Agrilus mali Matsumara (Coleoptera: Buprestidae) using high-throughput sequencing: uncovering plant cell-wall degrading bacteria</title>
-                <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-41368-x</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-41368-x</guid>
             </item>
         
     </channel>
