@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Mon, 6 May 2019 03:42:58 +0000</pubDate>
-        <lastBuildDate>Mon, 6 May 2019 03:42:58 +0000</lastBuildDate>
+        <pubDate>Tue, 7 May 2019 03:03:29 +0000</pubDate>
+        <lastBuildDate>Tue, 7 May 2019 03:03:29 +0000</lastBuildDate>
+        
+            <item>
+                <title>On resolving ambiguities in microbial community analysis of partial nitritation anammox reactors</title>
+                <pubDate>Mon, 6 May 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-42882-8</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-42882-8</guid>
+            </item>
         
             <item>
                 <title>Arctic an unexpected hotspot for viral diversity</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41396-019-0399-7</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41396-019-0399-7</guid>
-            </item>
-        
-            <item>
-                <title>Insight into the genome and brackish water adaptation strategies of toxic and bloom-forming Baltic Sea Dolichospermum sp. UHCC 0315</title>
-                <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-40883-1</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-40883-1</guid>
             </item>
         
     </channel>
