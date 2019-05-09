@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Tue, 7 May 2019 03:03:29 +0000</pubDate>
-        <lastBuildDate>Tue, 7 May 2019 03:03:29 +0000</lastBuildDate>
+        <pubDate>Thu, 9 May 2019 02:32:14 +0000</pubDate>
+        <lastBuildDate>Thu, 9 May 2019 02:32:14 +0000</lastBuildDate>
+        
+            <item>
+                <title>Chemosynthetic ectosymbionts associated with a shallow-water marine nematode</title>
+                <pubDate>Tue, 7 May 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-43517-8</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-43517-8</guid>
+            </item>
         
             <item>
                 <title>On resolving ambiguities in microbial community analysis of partial nitritation anammox reactors</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41522-019-0085-6</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41522-019-0085-6</guid>
-            </item>
-        
-            <item>
-                <title>Resolving the individual contribution of key microbial populations to enhanced biological phosphorus removal with Raman–FISH</title>
-                <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0399-7</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0399-7</guid>
             </item>
         
     </channel>
