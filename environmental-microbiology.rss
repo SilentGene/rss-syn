@@ -5,8 +5,32 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 9 May 2019 02:32:14 +0000</pubDate>
-        <lastBuildDate>Thu, 9 May 2019 02:32:14 +0000</lastBuildDate>
+        <pubDate>Fri, 10 May 2019 02:34:47 +0000</pubDate>
+        <lastBuildDate>Fri, 10 May 2019 02:34:47 +0000</lastBuildDate>
+        
+            <item>
+                <title>Culturing the ubiquitous freshwater actinobacterial acI lineage by supplying a biochemical ‘helper’ catalase</title>
+                <pubDate>Thu, 9 May 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0432-x</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0432-x</guid>
+            </item>
+        
+            <item>
+                <title>Defining lower limits of biodegradation: atrazine degradation regulated by mass transfer and maintenance demand in Arthrobacter aurescens TC1</title>
+                <pubDate>Thu, 9 May 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0430-z</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0430-z</guid>
+            </item>
+        
+            <item>
+                <title>Active subseafloor microbial communities from Mariana back-arc venting fluids share metabolic strategies across different thermal niches and taxa</title>
+                <pubDate>Thu, 9 May 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0431-y</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0431-y</guid>
+            </item>
         
             <item>
                 <title>Chemosynthetic ectosymbionts associated with a shallow-water marine nematode</title>
@@ -222,30 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-42260-4</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-42260-4</guid>
-            </item>
-        
-            <item>
-                <title>Phosphate deficiency induced biofilm formation of Burkholderia on insoluble phosphate granules plays a pivotal role for maximum release of soluble phosphate</title>
-                <pubDate>Tue, 2 Apr 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-41726-9</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-41726-9</guid>
-            </item>
-        
-            <item>
-                <title>Casting light on Asgardarchaeota metabolism in a sunlit microoxic niche</title>
-                <pubDate>Mon, 1 Apr 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41564-019-0404-y</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41564-019-0404-y</guid>
-            </item>
-        
-            <item>
-                <title>On the nature of “skeletal” biofilm patterns, “hidden” heterogeneity and the role of bubbles to reveal them</title>
-                <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41522-019-0085-6</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41522-019-0085-6</guid>
             </item>
         
     </channel>
