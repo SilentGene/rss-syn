@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Fri, 7 Jun 2019 03:37:00 +0000</pubDate>
-        <lastBuildDate>Fri, 7 Jun 2019 03:37:00 +0000</lastBuildDate>
+        <pubDate>Mon, 10 Jun 2019 03:33:59 +0000</pubDate>
+        <lastBuildDate>Mon, 10 Jun 2019 03:33:59 +0000</lastBuildDate>
+        
+            <item>
+                <title>Phylogenetic conservation of bacterial responses to soil nitrogen addition across continents</title>
+                <pubDate>Fri, 7 Jun 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41467-019-10390-y</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41467-019-10390-y</guid>
+            </item>
         
             <item>
                 <title>A few Ascomycota taxa dominate soil fungal communities worldwide</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41467-019-09944-x</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41467-019-09944-x</guid>
-            </item>
-        
-            <item>
-                <title>Habitat-dependent composition of bacterial and fungal communities in biological soil crusts from Oman</title>
-                <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-42911-6</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-42911-6</guid>
             </item>
         
     </channel>
