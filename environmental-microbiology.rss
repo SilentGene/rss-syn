@@ -5,8 +5,40 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Mon, 10 Jun 2019 03:33:59 +0000</pubDate>
-        <lastBuildDate>Mon, 10 Jun 2019 03:33:59 +0000</lastBuildDate>
+        <pubDate>Tue, 11 Jun 2019 03:11:30 +0000</pubDate>
+        <lastBuildDate>Tue, 11 Jun 2019 03:11:30 +0000</lastBuildDate>
+        
+            <item>
+                <title>Microbial community structure of soils in Bamenwan mangrove wetland</title>
+                <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-44788-x</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-44788-x</guid>
+            </item>
+        
+            <item>
+                <title>DNA-uptake pili of Vibrio cholerae are required for chitin colonization and capable of kin recognition via sequence-specific self-interaction</title>
+                <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41564-019-0479-5</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41564-019-0479-5</guid>
+            </item>
+        
+            <item>
+                <title>Seeking active RubisCOs from the currently uncultured microbial majority colonizing deep-sea hydrothermal vent environments</title>
+                <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0439-3</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0439-3</guid>
+            </item>
+        
+            <item>
+                <title>Two intracellular and cell type-specific bacterial symbionts in the placozoan Trichoplax H2</title>
+                <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41564-019-0475-9</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41564-019-0475-9</guid>
+            </item>
         
             <item>
                 <title>Phylogenetic conservation of bacterial responses to soil nitrogen addition across continents</title>
@@ -214,38 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-43110-z</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-43110-z</guid>
-            </item>
-        
-            <item>
-                <title>Isolation, Purification, and Characterization of Heparinase from Streptomyces variabilis MTCC 12266</title>
-                <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-42740-7</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-42740-7</guid>
-            </item>
-        
-            <item>
-                <title>Bacillus subtilis CBR05 induces Vitamin B6 biosynthesis in tomato through the de novo pathway in contributing disease resistance against Xanthomonas campestris pv. vesicatoria</title>
-                <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-41888-6</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-41888-6</guid>
-            </item>
-        
-            <item>
-                <title>Low yield and abiotic origin of N2O formed by the complete nitrifier Nitrospira inopinata</title>
-                <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41467-019-09790-x</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41467-019-09790-x</guid>
-            </item>
-        
-            <item>
-                <title>The extracellular matrix protects Bacillus subtilis colonies from Pseudomonas invasion and modulates plant co-colonization</title>
-                <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41467-019-09944-x</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41467-019-09944-x</guid>
             </item>
         
     </channel>
