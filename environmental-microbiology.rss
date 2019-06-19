@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Tue, 18 Jun 2019 03:59:46 +0000</pubDate>
-        <lastBuildDate>Tue, 18 Jun 2019 03:59:46 +0000</lastBuildDate>
+        <pubDate>Wed, 19 Jun 2019 04:04:09 +0000</pubDate>
+        <lastBuildDate>Wed, 19 Jun 2019 04:04:09 +0000</lastBuildDate>
+        
+            <item>
+                <title>Scientists’ warning to humanity: microorganisms and climate change</title>
+                <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41579-019-0222-5</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41579-019-0222-5</guid>
+            </item>
         
             <item>
                 <title>Phenotypic plasticity of Escherichia coli upon exposure to physical stress induced by ZnO nanorods</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41396-019-0426-8</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41396-019-0426-8</guid>
-            </item>
-        
-            <item>
-                <title>Correction: Long-term in situ permafrost thaw effects on bacterial communities and potential aerobic respiration</title>
-                <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0384-1</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0384-1</guid>
             </item>
         
     </channel>
