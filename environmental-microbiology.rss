@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Fri, 21 Jun 2019 01:57:23 +0000</pubDate>
-        <lastBuildDate>Fri, 21 Jun 2019 01:57:23 +0000</lastBuildDate>
+        <pubDate>Mon, 24 Jun 2019 00:19:10 +0000</pubDate>
+        <lastBuildDate>Mon, 24 Jun 2019 00:19:10 +0000</lastBuildDate>
+        
+            <item>
+                <title>Synergies between mycorrhizal fungi and soil microbial communities increase plant nitrogen acquisition</title>
+                <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s42003-019-0481-8</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s42003-019-0481-8</guid>
+            </item>
         
             <item>
                 <title>Microbial communities in top- and subsoil of repacked soil columns respond differently to amendments but their diversity is negatively correlated with plant productivity</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-42882-8</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-42882-8</guid>
-            </item>
-        
-            <item>
-                <title>Arctic an unexpected hotspot for viral diversity</title>
-                <pubDate>Fri, 3 May 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41579-019-0211-8</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41579-019-0211-8</guid>
             </item>
         
     </channel>

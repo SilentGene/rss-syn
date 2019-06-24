@@ -1,1 +1,1 @@
-CreateObject("WScript.Shell").Run "cmd /c auto-push.bat",0
+CreateObject("WScript.Shell").Run "cmd /c E:\Biology_data\0.Commands\2.MyPythonScript\rss-syn\auto-push.bat /start",0
