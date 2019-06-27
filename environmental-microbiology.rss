@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Wed, 26 Jun 2019 01:15:50 +0000</pubDate>
-        <lastBuildDate>Wed, 26 Jun 2019 01:15:50 +0000</lastBuildDate>
+        <pubDate>Thu, 27 Jun 2019 02:07:03 +0000</pubDate>
+        <lastBuildDate>Thu, 27 Jun 2019 02:07:03 +0000</lastBuildDate>
+        
+            <item>
+                <title>Direct Detection of Heterotrophic Diazotrophs Associated with Planktonic Aggregates</title>
+                <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-45505-4</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-45505-4</guid>
+            </item>
         
             <item>
                 <title>Primer-free FISH probes from metagenomics/metatranscriptomics data permit the study of uncharacterised taxa in complex microbial communities</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s42003-019-0418-2</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s42003-019-0418-2</guid>
-            </item>
-        
-            <item>
-                <title>Global diversity and biogeography of bacterial communities in wastewater treatment plants</title>
-                <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41564-019-0426-5</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41564-019-0426-5</guid>
             </item>
         
     </channel>
