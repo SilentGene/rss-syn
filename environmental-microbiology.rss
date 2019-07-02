@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Mon, 1 Jul 2019 01:29:01 +0000</pubDate>
-        <lastBuildDate>Mon, 1 Jul 2019 01:29:01 +0000</lastBuildDate>
+        <pubDate>Tue, 2 Jul 2019 01:51:46 +0000</pubDate>
+        <lastBuildDate>Tue, 2 Jul 2019 01:51:46 +0000</lastBuildDate>
+        
+            <item>
+                <title>Coral microbiome dynamics, functions and design in a changing world</title>
+                <pubDate>Mon, 1 Jul 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41579-019-0223-4</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41579-019-0223-4</guid>
+            </item>
         
             <item>
                 <title>Effect of Straw and Straw Biochar on the Community Structure and Diversity of Ammonia-oxidizing Bacteria and Archaea in Rice-wheat Rotation Ecosystems</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-43478-y</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-43478-y</guid>
-            </item>
-        
-            <item>
-                <title>Plastic leachates impair growth and oxygen production in Prochlorococcus, the ocean’s most abundant photosynthetic bacteria</title>
-                <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s42003-019-0410-x</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s42003-019-0410-x</guid>
             </item>
         
     </channel>
