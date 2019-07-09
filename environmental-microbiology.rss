@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Mon, 8 Jul 2019 02:04:38 +0000</pubDate>
-        <lastBuildDate>Mon, 8 Jul 2019 02:04:38 +0000</lastBuildDate>
+        <pubDate>Tue, 9 Jul 2019 01:04:08 +0000</pubDate>
+        <lastBuildDate>Tue, 9 Jul 2019 01:04:08 +0000</lastBuildDate>
+        
+            <item>
+                <title>Global phylogeography and ancient evolution of the widespread human gut virus crAssphage</title>
+                <pubDate>Mon, 8 Jul 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41564-019-0494-6</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41564-019-0494-6</guid>
+            </item>
         
             <item>
                 <title>Contrasting microbial community responses to salinization and straw amendment in a semiarid bare soil and its wheat rhizosphere</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-44283-3</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-44283-3</guid>
-            </item>
-        
-            <item>
-                <title>Uncultured Nitrospina-like species are major nitrite oxidizing bacteria in oxygen minimum zones</title>
-                <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0443-7</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0443-7</guid>
             </item>
         
     </channel>
