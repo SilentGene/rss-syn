@@ -5,8 +5,40 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Tue, 16 Jul 2019 02:04:43 +0000</pubDate>
-        <lastBuildDate>Tue, 16 Jul 2019 02:04:43 +0000</lastBuildDate>
+        <pubDate>Fri, 19 Jul 2019 02:03:14 +0000</pubDate>
+        <lastBuildDate>Fri, 19 Jul 2019 02:03:14 +0000</lastBuildDate>
+        
+            <item>
+                <title>Diel transcriptional response of a California Current plankton microbiome to light, low iron, and enduring viral infection</title>
+                <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0472-2</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0472-2</guid>
+            </item>
+        
+            <item>
+                <title>Co-cultivation of the marine sponge Halichondria panicea and its associated microorganisms</title>
+                <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-46904-3</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-46904-3</guid>
+            </item>
+        
+            <item>
+                <title>Abundance and survival of microbial aerosols in the troposphere and stratosphere</title>
+                <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0474-0</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0474-0</guid>
+            </item>
+        
+            <item>
+                <title>Paired RNA Radiocarbon and Sequencing Analyses Indicate the Importance of Autotrophy in a Shallow Alluvial Aquifer</title>
+                <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-46663-1</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-46663-1</guid>
+            </item>
         
             <item>
                 <title>Silicon limitation facilitates virus infection and mortality of marine diatoms</title>
@@ -214,38 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-44788-x</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-44788-x</guid>
-            </item>
-        
-            <item>
-                <title>DNA-uptake pili of Vibrio cholerae are required for chitin colonization and capable of kin recognition via sequence-specific self-interaction</title>
-                <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41564-019-0479-5</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41564-019-0479-5</guid>
-            </item>
-        
-            <item>
-                <title>Seeking active RubisCOs from the currently uncultured microbial majority colonizing deep-sea hydrothermal vent environments</title>
-                <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0439-3</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0439-3</guid>
-            </item>
-        
-            <item>
-                <title>Two intracellular and cell type-specific bacterial symbionts in the placozoan Trichoplax H2</title>
-                <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41564-019-0475-9</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41564-019-0475-9</guid>
-            </item>
-        
-            <item>
-                <title>Phylogenetic conservation of bacterial responses to soil nitrogen addition across continents</title>
-                <pubDate>Fri, 7 Jun 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41467-019-10390-y</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41467-019-10390-y</guid>
             </item>
         
     </channel>
