@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Fri, 19 Jul 2019 02:03:14 +0000</pubDate>
-        <lastBuildDate>Fri, 19 Jul 2019 02:03:14 +0000</lastBuildDate>
+        <pubDate>Mon, 22 Jul 2019 01:24:43 +0000</pubDate>
+        <lastBuildDate>Mon, 22 Jul 2019 01:24:43 +0000</lastBuildDate>
+        
+            <item>
+                <title>Growing up on the farm</title>
+                <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41590-019-0462-6</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41590-019-0462-6</guid>
+            </item>
         
             <item>
                 <title>Diel transcriptional response of a California Current plankton microbiome to light, low iron, and enduring viral infection</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-44727-w</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-44727-w</guid>
-            </item>
-        
-            <item>
-                <title>Microbial community structure of soils in Bamenwan mangrove wetland</title>
-                <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-44788-x</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-44788-x</guid>
             </item>
         
     </channel>
