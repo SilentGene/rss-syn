@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 25 Jul 2019 01:54:01 +0000</pubDate>
-        <lastBuildDate>Thu, 25 Jul 2019 01:54:01 +0000</lastBuildDate>
+        <pubDate>Fri, 26 Jul 2019 02:02:57 +0000</pubDate>
+        <lastBuildDate>Fri, 26 Jul 2019 02:02:57 +0000</lastBuildDate>
+        
+            <item>
+                <title>Production of Polyunsaturated Fatty Acids and Lipids from Autotrophic, Mixotrophic and Heterotrophic cultivation of Galdieria sp. strain USBA-GBX-832</title>
+                <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-46645-3</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-46645-3</guid>
+            </item>
         
             <item>
                 <title>Extreme Arsenic Bioaccumulation Factor Variability in Lake Titicaca, Bolivia</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-44985-8</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-44985-8</guid>
-            </item>
-        
-            <item>
-                <title>First description of bacterial and fungal communities in Colombian coffee beans fermentation analysed using Illumina-based amplicon sequencing</title>
-                <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-45002-8</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-45002-8</guid>
             </item>
         
     </channel>
