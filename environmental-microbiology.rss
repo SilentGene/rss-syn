@@ -5,8 +5,32 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Tue, 30 Jul 2019 01:07:46 +0000</pubDate>
-        <lastBuildDate>Tue, 30 Jul 2019 01:07:46 +0000</lastBuildDate>
+        <pubDate>Wed, 31 Jul 2019 01:46:48 +0000</pubDate>
+        <lastBuildDate>Wed, 31 Jul 2019 01:46:48 +0000</lastBuildDate>
+        
+            <item>
+                <title>Coherence of Microcystis species revealed through population genomics</title>
+                <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0481-1</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0481-1</guid>
+            </item>
+        
+            <item>
+                <title>Measuring active microbiomes</title>
+                <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41592-019-0520-x</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41592-019-0520-x</guid>
+            </item>
+        
+            <item>
+                <title>More than microbial relative abundances</title>
+                <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41592-019-0527-3</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41592-019-0527-3</guid>
+            </item>
         
             <item>
                 <title>First report of anatoxin-a producing cyanobacteria in Australia illustrates need to regularly up-date monitoring strategies in a shifting global distribution</title>
@@ -222,30 +246,6 @@
                 <link>https://www.nature.com/articles/s41522-019-0090-9</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41522-019-0090-9</guid>
-            </item>
-        
-            <item>
-                <title>Probing the active fraction of soil microbiomes using BONCAT-FACS</title>
-                <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41467-019-10542-0</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41467-019-10542-0</guid>
-            </item>
-        
-            <item>
-                <title>Features of diclofenac biodegradation by Rhodococcus ruber IEGM 346</title>
-                <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-45732-9</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-45732-9</guid>
-            </item>
-        
-            <item>
-                <title>Stimulation of asymbiotic sporulation in arbuscular mycorrhizal fungi by fatty acids</title>
-                <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41564-019-0485-7</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41564-019-0485-7</guid>
             </item>
         
     </channel>
