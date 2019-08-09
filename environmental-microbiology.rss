@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 8 Aug 2019 01:50:38 +0000</pubDate>
-        <lastBuildDate>Thu, 8 Aug 2019 01:50:38 +0000</lastBuildDate>
+        <pubDate>Fri, 9 Aug 2019 02:01:48 +0000</pubDate>
+        <lastBuildDate>Fri, 9 Aug 2019 02:01:48 +0000</lastBuildDate>
+        
+            <item>
+                <title>Chemosymbiotic bivalves contribute to the nitrogen budget of seagrass ecosystems</title>
+                <pubDate>Thu, 8 Aug 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0486-9</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0486-9</guid>
+            </item>
         
             <item>
                 <title>Effect of α-glycosidase inhibitors from endophytic fungus Alternaria destruens on survival and development of insect pest Spodoptera litura Fab. and fungal phytopathogens</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-46018-w</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-46018-w</guid>
-            </item>
-        
-            <item>
-                <title>Halophilic microbial community compositional shift after a rare rainfall in the Atacama Desert</title>
-                <pubDate>Thu, 4 Jul 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0468-y</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0468-y</guid>
             </item>
         
     </channel>
