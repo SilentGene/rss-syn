@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 15 Aug 2019 01:40:20 +0000</pubDate>
-        <lastBuildDate>Thu, 15 Aug 2019 01:40:20 +0000</lastBuildDate>
+        <pubDate>Fri, 16 Aug 2019 01:52:08 +0000</pubDate>
+        <lastBuildDate>Fri, 16 Aug 2019 01:52:08 +0000</lastBuildDate>
+        
+            <item>
+                <title>The culture debate</title>
+                <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41579-019-0259-5</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41579-019-0259-5</guid>
+            </item>
         
             <item>
                 <title>Metataxonomic analyses reveal differences in aquifer bacterial community as a function of creosote contamination and its potential for contaminant remediation</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41564-019-0494-6</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41564-019-0494-6</guid>
-            </item>
-        
-            <item>
-                <title>Contrasting microbial community responses to salinization and straw amendment in a semiarid bare soil and its wheat rhizosphere</title>
-                <pubDate>Fri, 5 Jul 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-46070-6</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-46070-6</guid>
             </item>
         
     </channel>
