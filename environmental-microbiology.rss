@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 22 Aug 2019 01:58:12 +0000</pubDate>
-        <lastBuildDate>Thu, 22 Aug 2019 01:58:12 +0000</lastBuildDate>
+        <pubDate>Fri, 23 Aug 2019 01:52:37 +0000</pubDate>
+        <lastBuildDate>Fri, 23 Aug 2019 01:52:37 +0000</lastBuildDate>
+        
+            <item>
+                <title>Aeolian transport of viable microbial life across the Atacama Desert, Chile: Implications for Mars</title>
+                <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-47394-z</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-47394-z</guid>
+            </item>
         
             <item>
                 <title>Taxonomic and functional characterization of a microbial community from a volcanic englacial ecosystem in Deception Island, Antarctica</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-46557-2</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-46557-2</guid>
-            </item>
-        
-            <item>
-                <title>PadR-type repressors controlling production of a non-canonical FtsW/RodA homologue and other trans-membrane proteins</title>
-                <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-46347-w</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-46347-w</guid>
             </item>
         
     </channel>
