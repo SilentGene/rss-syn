@@ -5,8 +5,32 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Fri, 23 Aug 2019 01:52:37 +0000</pubDate>
-        <lastBuildDate>Fri, 23 Aug 2019 01:52:37 +0000</lastBuildDate>
+        <pubDate>Mon, 26 Aug 2019 02:05:35 +0000</pubDate>
+        <lastBuildDate>Mon, 26 Aug 2019 02:05:35 +0000</lastBuildDate>
+        
+            <item>
+                <title>Niche differentiation among annually recurrent coastal Marine Group II Euryarchaeota</title>
+                <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0491-z</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0491-z</guid>
+            </item>
+        
+            <item>
+                <title>Diversity-triggered deterministic bacterial assembly constrains community functions</title>
+                <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41467-019-11787-5</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41467-019-11787-5</guid>
+            </item>
+        
+            <item>
+                <title>Baltic Sea methanogens compete with acetogens for electrons from metallic iron</title>
+                <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0490-0</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0490-0</guid>
+            </item>
         
             <item>
                 <title>Aeolian transport of viable microbial life across the Atacama Desert, Chile: Implications for Mars</title>
@@ -222,30 +246,6 @@
                 <link>https://www.nature.com/articles/s41396-019-0474-0</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41396-019-0474-0</guid>
-            </item>
-        
-            <item>
-                <title>Paired RNA Radiocarbon and Sequencing Analyses Indicate the Importance of Autotrophy in a Shallow Alluvial Aquifer</title>
-                <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-46663-1</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-46663-1</guid>
-            </item>
-        
-            <item>
-                <title>Silicon limitation facilitates virus infection and mortality of marine diatoms</title>
-                <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41564-019-0502-x</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41564-019-0502-x</guid>
-            </item>
-        
-            <item>
-                <title>Phosphite binding by the HtxB periplasmic binding protein depends on the protonation state of the ligand</title>
-                <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-46557-2</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-46557-2</guid>
             </item>
         
     </channel>
