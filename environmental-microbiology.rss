@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Fri, 30 Aug 2019 01:59:42 +0000</pubDate>
-        <lastBuildDate>Fri, 30 Aug 2019 01:59:42 +0000</lastBuildDate>
+        <pubDate>Sun, 1 Sep 2019 19:30:28 +0000</pubDate>
+        <lastBuildDate>Sun, 1 Sep 2019 19:30:28 +0000</lastBuildDate>
+        
+            <item>
+                <title>Bacterial succession along a sediment porewater gradient at Lake Neusiedl in Austria</title>
+                <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41597-019-0172-9</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41597-019-0172-9</guid>
+            </item>
         
             <item>
                 <title>Enhanced insights from human and animal host-associated molecular marker genes in a freshwater lake receiving wet weather overflows</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41590-019-0462-6</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41590-019-0462-6</guid>
-            </item>
-        
-            <item>
-                <title>Diel transcriptional response of a California Current plankton microbiome to light, low iron, and enduring viral infection</title>
-                <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0472-2</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0472-2</guid>
             </item>
         
     </channel>
