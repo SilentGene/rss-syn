@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Wed, 4 Sep 2019 02:00:59 +0000</pubDate>
-        <lastBuildDate>Wed, 4 Sep 2019 02:00:59 +0000</lastBuildDate>
+        <pubDate>Wed, 4 Sep 2019 21:37:50 +0000</pubDate>
+        <lastBuildDate>Wed, 4 Sep 2019 21:37:50 +0000</lastBuildDate>
+        
+            <item>
+                <title>Sulfur metabolites in the pelagic ocean</title>
+                <pubDate>Wed, 4 Sep 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41579-019-0250-1</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41579-019-0250-1</guid>
+            </item>
         
             <item>
                 <title>Temperature as competitive strategy determining factor in pulse-fed aerobic bioreactors</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-46521-0</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-46521-0</guid>
-            </item>
-        
-            <item>
-                <title>Cryptic inoviruses revealed as pervasive in bacteria and archaea across Earth’s biomes</title>
-                <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41564-019-0510-x</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41564-019-0510-x</guid>
             </item>
         
     </channel>
