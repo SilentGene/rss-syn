@@ -5,8 +5,32 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Fri, 6 Sep 2019 00:50:58 +0000</pubDate>
-        <lastBuildDate>Fri, 6 Sep 2019 00:50:58 +0000</lastBuildDate>
+        <pubDate>Mon, 9 Sep 2019 01:09:38 +0000</pubDate>
+        <lastBuildDate>Mon, 9 Sep 2019 01:09:38 +0000</lastBuildDate>
+        
+            <item>
+                <title>The root of a new interkingdom interaction</title>
+                <pubDate>Fri, 6 Sep 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41579-019-0267-5</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41579-019-0267-5</guid>
+            </item>
+        
+            <item>
+                <title>Pseudomonas spp. are key players in agricultural biogas substrate degradation</title>
+                <pubDate>Fri, 6 Sep 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-49313-8</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-49313-8</guid>
+            </item>
+        
+            <item>
+                <title>Metagenomic and chemical characterization of soil cobalamin production</title>
+                <pubDate>Fri, 6 Sep 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0502-0</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0502-0</guid>
+            </item>
         
             <item>
                 <title>Space Station conditions are selective but do not alter microbial characteristics relevant to human health</title>
@@ -222,30 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-47304-3</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-47304-3</guid>
-            </item>
-        
-            <item>
-                <title>Microbial invasions in terrestrial ecosystems</title>
-                <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41579-019-0236-z</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41579-019-0236-z</guid>
-            </item>
-        
-            <item>
-                <title>Escherichia coli adaptation and response to exposure to heavy atmospheric pollution</title>
-                <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-47427-7</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-47427-7</guid>
-            </item>
-        
-            <item>
-                <title>Production of Polyunsaturated Fatty Acids and Lipids from Autotrophic, Mixotrophic and Heterotrophic cultivation of Galdieria sp. strain USBA-GBX-832</title>
-                <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-46645-3</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-46645-3</guid>
             </item>
         
     </channel>
