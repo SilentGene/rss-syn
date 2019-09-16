@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Fri, 13 Sep 2019 01:48:01 +0000</pubDate>
-        <lastBuildDate>Fri, 13 Sep 2019 01:48:01 +0000</lastBuildDate>
+        <pubDate>Mon, 16 Sep 2019 01:47:47 +0000</pubDate>
+        <lastBuildDate>Mon, 16 Sep 2019 01:47:47 +0000</lastBuildDate>
+        
+            <item>
+                <title>Impact of continuous Panax notoginseng plantation on soil microbial and biochemical properties</title>
+                <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-49625-9</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-49625-9</guid>
+            </item>
         
             <item>
                 <title>Changes in the metabolic potential of the sponge microbiome under ocean acidification</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-47788-z</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-47788-z</guid>
-            </item>
-        
-            <item>
-                <title>Chemosymbiotic bivalves contribute to the nitrogen budget of seagrass ecosystems</title>
-                <pubDate>Thu, 8 Aug 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0486-9</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0486-9</guid>
             </item>
         
     </channel>
