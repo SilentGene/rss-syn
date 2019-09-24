@@ -5,8 +5,32 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Fri, 20 Sep 2019 01:24:21 +0000</pubDate>
-        <lastBuildDate>Fri, 20 Sep 2019 01:24:21 +0000</lastBuildDate>
+        <pubDate>Tue, 24 Sep 2019 01:14:08 +0000</pubDate>
+        <lastBuildDate>Tue, 24 Sep 2019 01:14:08 +0000</lastBuildDate>
+        
+            <item>
+                <title>The microbial community in filamentous bulking sludge with the ultra-low sludge loading and long sludge retention time in oxidation ditch</title>
+                <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-50086-3</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-50086-3</guid>
+            </item>
+        
+            <item>
+                <title>A genomic view of the reef-building coral Porites lutea and its microbial symbionts</title>
+                <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41564-019-0532-4</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41564-019-0532-4</guid>
+            </item>
+        
+            <item>
+                <title>A day in the life of marine sulfonates</title>
+                <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41564-019-0576-5</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41564-019-0576-5</guid>
+            </item>
         
             <item>
                 <title>A shared core microbiome in soda lakes separated by large distances</title>
@@ -222,30 +246,6 @@
                 <link>https://www.nature.com/articles/s41396-019-0490-0</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41396-019-0490-0</guid>
-            </item>
-        
-            <item>
-                <title>Aeolian transport of viable microbial life across the Atacama Desert, Chile: Implications for Mars</title>
-                <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-47394-z</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-47394-z</guid>
-            </item>
-        
-            <item>
-                <title>Taxonomic and functional characterization of a microbial community from a volcanic englacial ecosystem in Deception Island, Antarctica</title>
-                <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-47994-9</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-47994-9</guid>
-            </item>
-        
-            <item>
-                <title>A hierarchy of environmental covariates control the global biogeography of soil bacterial richness</title>
-                <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-48571-w</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-48571-w</guid>
             </item>
         
     </channel>
