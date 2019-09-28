@@ -5,8 +5,24 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 26 Sep 2019 01:42:12 +0000</pubDate>
-        <lastBuildDate>Thu, 26 Sep 2019 01:42:12 +0000</lastBuildDate>
+        <pubDate>Sat, 28 Sep 2019 01:33:32 +0000</pubDate>
+        <lastBuildDate>Sat, 28 Sep 2019 01:33:32 +0000</lastBuildDate>
+        
+            <item>
+                <title>Trophic networks improve the performance of microbial anodes treating wastewater</title>
+                <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41522-019-0100-y</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41522-019-0100-y</guid>
+            </item>
+        
+            <item>
+                <title>Horizontal acquisition of a patchwork Calvin cycle by symbiotic and free-living Campylobacterota (formerly Epsilonproteobacteria)</title>
+                <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0508-7</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0508-7</guid>
+            </item>
         
             <item>
                 <title>Defining trait-based microbial strategies with consequences for soil carbon cycling under climate change</title>
@@ -230,22 +246,6 @@
                 <link>https://www.nature.com/articles/s41396-019-0495-8</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41396-019-0495-8</guid>
-            </item>
-        
-            <item>
-                <title>Symbiotic effectiveness and ecologically adaptive traits of native rhizobial symbionts of Bambara groundnut (Vigna subterranea L. Verdc.) in Africa and their relationship with phylogeny</title>
-                <pubDate>Mon, 2 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-48944-1</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-48944-1</guid>
-            </item>
-        
-            <item>
-                <title>Bacterial succession along a sediment porewater gradient at Lake Neusiedl in Austria</title>
-                <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41597-019-0172-9</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41597-019-0172-9</guid>
             </item>
         
     </channel>
