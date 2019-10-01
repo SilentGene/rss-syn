@@ -5,8 +5,32 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Mon, 30 Sep 2019 00:56:14 +0000</pubDate>
-        <lastBuildDate>Mon, 30 Sep 2019 00:56:14 +0000</lastBuildDate>
+        <pubDate>Tue, 1 Oct 2019 00:37:42 +0000</pubDate>
+        <lastBuildDate>Tue, 1 Oct 2019 00:37:42 +0000</lastBuildDate>
+        
+            <item>
+                <title>Simple lysis of bacterial cells for DNA-based diagnostics using hydrophilic ionic liquids</title>
+                <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-50246-5</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-50246-5</guid>
+            </item>
+        
+            <item>
+                <title>Targeted isolation and cultivation of uncultivated bacteria by reverse genomics</title>
+                <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41587-019-0260-6</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41587-019-0260-6</guid>
+            </item>
+        
+            <item>
+                <title>Vibrio cholerae residing in food vacuoles expelled by protozoa are more infectious in vivo</title>
+                <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41564-019-0563-x</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41564-019-0563-x</guid>
+            </item>
         
             <item>
                 <title>Trophic networks improve the performance of microbial anodes treating wastewater</title>
@@ -222,30 +246,6 @@
                 <link>https://www.nature.com/articles/s41467-019-11682-z</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41467-019-11682-z</guid>
-            </item>
-        
-            <item>
-                <title>Metabolic modulations of Pseudomonas graminis in response to H2O2 in cloud water</title>
-                <pubDate>Thu, 5 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-49319-2</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-49319-2</guid>
-            </item>
-        
-            <item>
-                <title>Sulfur metabolites in the pelagic ocean</title>
-                <pubDate>Wed, 4 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41579-019-0250-1</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41579-019-0250-1</guid>
-            </item>
-        
-            <item>
-                <title>Temperature as competitive strategy determining factor in pulse-fed aerobic bioreactors</title>
-                <pubDate>Mon, 2 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0495-8</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0495-8</guid>
             </item>
         
     </channel>
