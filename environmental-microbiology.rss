@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 3 Oct 2019 01:59:21 +0000</pubDate>
-        <lastBuildDate>Thu, 3 Oct 2019 01:59:21 +0000</lastBuildDate>
+        <pubDate>Sat, 5 Oct 2019 01:25:20 +0000</pubDate>
+        <lastBuildDate>Sat, 5 Oct 2019 01:25:20 +0000</lastBuildDate>
+        
+            <item>
+                <title>Soil microbiomes and climate change</title>
+                <pubDate>Fri, 4 Oct 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41579-019-0265-7</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41579-019-0265-7</guid>
+            </item>
         
             <item>
                 <title>Selective bacterial colonization processes on polyethylene waste samples in an abandoned landfill site</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-49213-x</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-49213-x</guid>
-            </item>
-        
-            <item>
-                <title>Plumage iridescence is associated with distinct feather microbiota in a tropical passerine</title>
-                <pubDate>Mon, 9 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-49220-y</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-49220-y</guid>
             </item>
         
     </channel>
