@@ -5,8 +5,24 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Mon, 14 Oct 2019 00:15:09 +0000</pubDate>
-        <lastBuildDate>Mon, 14 Oct 2019 00:15:09 +0000</lastBuildDate>
+        <pubDate>Tue, 15 Oct 2019 00:18:03 +0000</pubDate>
+        <lastBuildDate>Tue, 15 Oct 2019 00:18:03 +0000</lastBuildDate>
+        
+            <item>
+                <title>Functional diversity enables multiple symbiont strains to coexist in deep-sea mussels</title>
+                <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41564-019-0572-9</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41564-019-0572-9</guid>
+            </item>
+        
+            <item>
+                <title>Global ecotypes in the ubiquitous marine clade SAR86</title>
+                <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0516-7</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0516-7</guid>
+            </item>
         
             <item>
                 <title>Characterization of coral-associated microbial aggregates (CAMAs) within tissues of the coral Acropora hyacinthus</title>
@@ -230,22 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-49625-9</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-49625-9</guid>
-            </item>
-        
-            <item>
-                <title>Changes in the metabolic potential of the sponge microbiome under ocean acidification</title>
-                <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41467-019-12156-y</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41467-019-12156-y</guid>
-            </item>
-        
-            <item>
-                <title>Assembly and seasonality of core phyllosphere microbiota on perennial biofuel crops</title>
-                <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41467-019-11974-4</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41467-019-11974-4</guid>
             </item>
         
     </channel>
