@@ -5,8 +5,32 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 17 Oct 2019 00:22:06 +0000</pubDate>
-        <lastBuildDate>Thu, 17 Oct 2019 00:22:06 +0000</lastBuildDate>
+        <pubDate>Sun, 20 Oct 2019 00:25:27 +0000</pubDate>
+        <lastBuildDate>Sun, 20 Oct 2019 00:25:27 +0000</lastBuildDate>
+        
+            <item>
+                <title>Publisher Correction: Marine microbiology: A day in the life of marine sulfonates</title>
+                <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41564-019-0606-3</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41564-019-0606-3</guid>
+            </item>
+        
+            <item>
+                <title>Niche partitioning of methane-oxidizing bacteria along the oxygen–methane counter gradient of stratified lakes</title>
+                <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0515-8</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0515-8</guid>
+            </item>
+        
+            <item>
+                <title>The release of a distinct cell type from swarm colonies facilitates dissemination of Vibrio parahaemolyticus in the environment</title>
+                <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0521-x</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0521-x</guid>
+            </item>
         
             <item>
                 <title>Phosphorus-acquisition strategies of canola, wheat and barley in soil amended with sewage sludges</title>
@@ -222,30 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-50086-3</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-50086-3</guid>
-            </item>
-        
-            <item>
-                <title>A genomic view of the reef-building coral Porites lutea and its microbial symbionts</title>
-                <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41564-019-0532-4</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41564-019-0532-4</guid>
-            </item>
-        
-            <item>
-                <title>A day in the life of marine sulfonates</title>
-                <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41564-019-0576-5</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41564-019-0576-5</guid>
-            </item>
-        
-            <item>
-                <title>A shared core microbiome in soda lakes separated by large distances</title>
-                <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41467-019-12195-5</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41467-019-12195-5</guid>
             </item>
         
     </channel>
