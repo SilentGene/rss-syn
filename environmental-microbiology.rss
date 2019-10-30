@@ -5,8 +5,32 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Mon, 28 Oct 2019 00:48:29 +0000</pubDate>
-        <lastBuildDate>Mon, 28 Oct 2019 00:48:29 +0000</lastBuildDate>
+        <pubDate>Wed, 30 Oct 2019 01:00:05 +0000</pubDate>
+        <lastBuildDate>Wed, 30 Oct 2019 01:00:05 +0000</lastBuildDate>
+        
+            <item>
+                <title>Microbial unknowns at the saline limits for life</title>
+                <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41559-019-1021-0</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41559-019-1021-0</guid>
+            </item>
+        
+            <item>
+                <title>Hyperdiverse archaea near life limits at the polyextreme geothermal Dallol area</title>
+                <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41559-019-1005-0</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41559-019-1005-0</guid>
+            </item>
+        
+            <item>
+                <title>Biochemical and Structural Insights Concerning Triclosan Resistance in a Novel YX7K Type Enoyl-Acyl Carrier Protein Reductase from Soil Metagenome</title>
+                <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-51895-2</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-51895-2</guid>
+            </item>
         
             <item>
                 <title>Distinct nitrogen cycling and steep chemical gradients in Trichodesmium colonies</title>
@@ -222,30 +246,6 @@
                 <link>https://www.nature.com/articles/s41396-019-0508-7</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41396-019-0508-7</guid>
-            </item>
-        
-            <item>
-                <title>Defining trait-based microbial strategies with consequences for soil carbon cycling under climate change</title>
-                <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0510-0</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0510-0</guid>
-            </item>
-        
-            <item>
-                <title>Comparison of the microbial composition of African fermented foods using amplicon sequencing</title>
-                <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-50190-4</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-50190-4</guid>
-            </item>
-        
-            <item>
-                <title>Characteristics and Evolution of sill-driven off-axis hydrothermalism in Guaymas Basin – the Ringvent site</title>
-                <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-50200-5</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-50200-5</guid>
             </item>
         
     </channel>
