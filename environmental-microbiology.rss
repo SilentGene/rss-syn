@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Wed, 30 Oct 2019 01:00:05 +0000</pubDate>
-        <lastBuildDate>Wed, 30 Oct 2019 01:00:05 +0000</lastBuildDate>
+        <pubDate>Thu, 31 Oct 2019 00:39:32 +0000</pubDate>
+        <lastBuildDate>Thu, 31 Oct 2019 00:39:32 +0000</lastBuildDate>
+        
+            <item>
+                <title>The oomycete Lagenisma coscinodisci hijacks host alkaloid synthesis during infection of a marine diatom</title>
+                <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41467-019-12908-w</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41467-019-12908-w</guid>
+            </item>
         
             <item>
                 <title>Microbial unknowns at the saline limits for life</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41522-019-0100-y</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41522-019-0100-y</guid>
-            </item>
-        
-            <item>
-                <title>Horizontal acquisition of a patchwork Calvin cycle by symbiotic and free-living Campylobacterota (formerly Epsilonproteobacteria)</title>
-                <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0508-7</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0508-7</guid>
             </item>
         
     </channel>
