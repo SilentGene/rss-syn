@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 31 Oct 2019 00:39:32 +0000</pubDate>
-        <lastBuildDate>Thu, 31 Oct 2019 00:39:32 +0000</lastBuildDate>
+        <pubDate>Thu, 31 Oct 2019 23:57:47 +0000</pubDate>
+        <lastBuildDate>Thu, 31 Oct 2019 23:57:47 +0000</lastBuildDate>
+        
+            <item>
+                <title>A comparative assessment of conventional and molecular methods, including MinION nanopore sequencing, for surveying water quality</title>
+                <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-51997-x</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-51997-x</guid>
+            </item>
         
             <item>
                 <title>The oomycete Lagenisma coscinodisci hijacks host alkaloid synthesis during infection of a marine diatom</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41564-019-0563-x</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41564-019-0563-x</guid>
-            </item>
-        
-            <item>
-                <title>Trophic networks improve the performance of microbial anodes treating wastewater</title>
-                <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41522-019-0100-y</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41522-019-0100-y</guid>
             </item>
         
     </channel>
