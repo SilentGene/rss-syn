@@ -5,8 +5,32 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 31 Oct 2019 23:57:47 +0000</pubDate>
-        <lastBuildDate>Thu, 31 Oct 2019 23:57:47 +0000</lastBuildDate>
+        <pubDate>Mon, 4 Nov 2019 22:44:10 +0000</pubDate>
+        <lastBuildDate>Mon, 4 Nov 2019 22:44:10 +0000</lastBuildDate>
+        
+            <item>
+                <title>Comparative proteomics of related symbiotic mussel species reveals high variability of host–symbiont interactions</title>
+                <pubDate>Mon, 4 Nov 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0517-6</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0517-6</guid>
+            </item>
+        
+            <item>
+                <title>Home chemical and microbial transitions across urbanization</title>
+                <pubDate>Mon, 4 Nov 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41564-019-0593-4</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41564-019-0593-4</guid>
+            </item>
+        
+            <item>
+                <title>Effects of multiple stressors on river biofilms depend on the time scale</title>
+                <pubDate>Fri, 1 Nov 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-52320-4</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-52320-4</guid>
+            </item>
         
             <item>
                 <title>A comparative assessment of conventional and molecular methods, including MinION nanopore sequencing, for surveying water quality</title>
@@ -222,30 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-50624-z</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-50624-z</guid>
-            </item>
-        
-            <item>
-                <title>Simple lysis of bacterial cells for DNA-based diagnostics using hydrophilic ionic liquids</title>
-                <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-50246-5</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-50246-5</guid>
-            </item>
-        
-            <item>
-                <title>Targeted isolation and cultivation of uncultivated bacteria by reverse genomics</title>
-                <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41587-019-0260-6</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41587-019-0260-6</guid>
-            </item>
-        
-            <item>
-                <title>Vibrio cholerae residing in food vacuoles expelled by protozoa are more infectious in vivo</title>
-                <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41564-019-0563-x</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41564-019-0563-x</guid>
             </item>
         
     </channel>
