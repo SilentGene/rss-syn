@@ -5,8 +5,32 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Mon, 4 Nov 2019 22:44:10 +0000</pubDate>
-        <lastBuildDate>Mon, 4 Nov 2019 22:44:10 +0000</lastBuildDate>
+        <pubDate>Wed, 6 Nov 2019 01:07:44 +0000</pubDate>
+        <lastBuildDate>Wed, 6 Nov 2019 01:07:44 +0000</lastBuildDate>
+        
+            <item>
+                <title>Metabolic and biogeochemical consequences of viral infection in aquatic ecosystems</title>
+                <pubDate>Tue, 5 Nov 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41579-019-0270-x</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41579-019-0270-x</guid>
+            </item>
+        
+            <item>
+                <title>DISCOVER: A facile structure-based screening method for vinyl compound producing microbes</title>
+                <pubDate>Tue, 5 Nov 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-52518-6</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-52518-6</guid>
+            </item>
+        
+            <item>
+                <title>Down to the bone: the role of overlooked endolithic microbiomes in reef coral health</title>
+                <pubDate>Tue, 5 Nov 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0548-z</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0548-z</guid>
+            </item>
         
             <item>
                 <title>Comparative proteomics of related symbiotic mussel species reveals high variability of host–symbiont interactions</title>
@@ -222,30 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-50788-8</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-50788-8</guid>
-            </item>
-        
-            <item>
-                <title>Correction: Defining lower limits of biodegradation: atrazine degradation regulated by mass transfer and maintenance demand in Arthrobacter aurescens TC1</title>
-                <pubDate>Wed, 2 Oct 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0512-y</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0512-y</guid>
-            </item>
-        
-            <item>
-                <title>Unveiling the hidden genetic diversity and chloroplast type of marine benthic ciliate Mesodinium species</title>
-                <pubDate>Tue, 1 Oct 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-50659-2</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-50659-2</guid>
-            </item>
-        
-            <item>
-                <title>Diversity, Co-occurrence and Implications of Fungal Communities in Wastewater Treatment Plants</title>
-                <pubDate>Tue, 1 Oct 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-50624-z</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-50624-z</guid>
             </item>
         
     </channel>
