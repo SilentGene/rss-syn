@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Wed, 6 Nov 2019 01:07:44 +0000</pubDate>
-        <lastBuildDate>Wed, 6 Nov 2019 01:07:44 +0000</lastBuildDate>
+        <pubDate>Thu, 7 Nov 2019 01:00:08 +0000</pubDate>
+        <lastBuildDate>Thu, 7 Nov 2019 01:00:08 +0000</lastBuildDate>
+        
+            <item>
+                <title>Phytoplankton community and algal toxicity at a recurring bloom in Sullivan Bay, Kabetogama Lake, Minnesota, USA</title>
+                <pubDate>Wed, 6 Nov 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-52639-y</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-52639-y</guid>
+            </item>
         
             <item>
                 <title>Metabolic and biogeochemical consequences of viral infection in aquatic ecosystems</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-50740-w</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-50740-w</guid>
-            </item>
-        
-            <item>
-                <title>Decoding multifarious role of cow dung bacteria in mobilization of zinc fractions along with growth promotion of C. annuum L.</title>
-                <pubDate>Wed, 2 Oct 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-50788-8</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-50788-8</guid>
             </item>
         
     </channel>
