@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Fri, 8 Nov 2019 23:56:29 +0000</pubDate>
-        <lastBuildDate>Fri, 8 Nov 2019 23:56:29 +0000</lastBuildDate>
+        <pubDate>Tue, 12 Nov 2019 00:55:06 +0000</pubDate>
+        <lastBuildDate>Tue, 12 Nov 2019 00:55:06 +0000</lastBuildDate>
+        
+            <item>
+                <title>Unlinked rRNA genes are widespread among bacteria and archaea</title>
+                <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0552-3</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0552-3</guid>
+            </item>
         
             <item>
                 <title>Temporal and spatial dynamics of Bacteria, Archaea and protists in equatorial coastal waters</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41396-019-0516-7</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41396-019-0516-7</guid>
-            </item>
-        
-            <item>
-                <title>Characterization of coral-associated microbial aggregates (CAMAs) within tissues of the coral Acropora hyacinthus</title>
-                <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-49651-7</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-49651-7</guid>
             </item>
         
     </channel>
