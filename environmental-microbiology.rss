@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Tue, 12 Nov 2019 00:55:06 +0000</pubDate>
-        <lastBuildDate>Tue, 12 Nov 2019 00:55:06 +0000</lastBuildDate>
+        <pubDate>Tue, 12 Nov 2019 23:32:22 +0000</pubDate>
+        <lastBuildDate>Tue, 12 Nov 2019 23:32:22 +0000</lastBuildDate>
+        
+            <item>
+                <title>Partial rpoB Gene Sequencing Identification and Probiotic Potential of Floricoccus penangensis ML061-4 Isolated from Assam Tea (Camellia sinensis var. assamica)</title>
+                <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-52979-9</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-52979-9</guid>
+            </item>
         
             <item>
                 <title>Unlinked rRNA genes are widespread among bacteria and archaea</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41564-019-0572-9</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41564-019-0572-9</guid>
-            </item>
-        
-            <item>
-                <title>Global ecotypes in the ubiquitous marine clade SAR86</title>
-                <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0516-7</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0516-7</guid>
             </item>
         
     </channel>
