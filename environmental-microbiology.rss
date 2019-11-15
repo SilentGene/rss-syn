@@ -5,8 +5,24 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Tue, 12 Nov 2019 23:32:22 +0000</pubDate>
-        <lastBuildDate>Tue, 12 Nov 2019 23:32:22 +0000</lastBuildDate>
+        <pubDate>Thu, 14 Nov 2019 23:44:15 +0000</pubDate>
+        <lastBuildDate>Thu, 14 Nov 2019 23:44:15 +0000</lastBuildDate>
+        
+            <item>
+                <title>Groundwater cable bacteria conserve energy by sulfur disproportionation</title>
+                <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-019-0554-1</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-019-0554-1</guid>
+            </item>
+        
+            <item>
+                <title>Author Correction: Global diversity and biogeography of bacterial communities in wastewater treatment plants</title>
+                <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41564-019-0617-0</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41564-019-0617-0</guid>
+            </item>
         
             <item>
                 <title>Partial rpoB Gene Sequencing Identification and Probiotic Potential of Floricoccus penangensis ML061-4 Isolated from Assam Tea (Camellia sinensis var. assamica)</title>
@@ -230,22 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-51341-3</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-51341-3</guid>
-            </item>
-        
-            <item>
-                <title>Environmental distribution of Porcine Circovirus Type 2 (PCV2) in swine herds with natural infection</title>
-                <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-51473-6</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-51473-6</guid>
-            </item>
-        
-            <item>
-                <title>Functional diversity enables multiple symbiont strains to coexist in deep-sea mussels</title>
-                <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41564-019-0572-9</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41564-019-0572-9</guid>
             </item>
         
     </channel>
