@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Sun, 8 Dec 2019 23:53:35 +0000</pubDate>
-        <lastBuildDate>Sun, 8 Dec 2019 23:53:35 +0000</lastBuildDate>
+        <pubDate>Tue, 10 Dec 2019 00:57:04 +0000</pubDate>
+        <lastBuildDate>Tue, 10 Dec 2019 00:57:04 +0000</lastBuildDate>
+        
+            <item>
+                <title>Long-term stability and Red Queen-like strain dynamics in marine viruses</title>
+                <pubDate>Mon, 9 Dec 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41564-019-0628-x</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41564-019-0628-x</guid>
+            </item>
         
             <item>
                 <title>Labour sharing promotes coexistence in atrazine degrading bacterial communities</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-52639-y</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-52639-y</guid>
-            </item>
-        
-            <item>
-                <title>Metabolic and biogeochemical consequences of viral infection in aquatic ecosystems</title>
-                <pubDate>Tue, 5 Nov 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41579-019-0270-x</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41579-019-0270-x</guid>
             </item>
         
     </channel>
