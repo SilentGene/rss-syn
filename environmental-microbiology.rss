@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Tue, 10 Dec 2019 00:57:04 +0000</pubDate>
-        <lastBuildDate>Tue, 10 Dec 2019 00:57:04 +0000</lastBuildDate>
+        <pubDate>Wed, 11 Dec 2019 00:33:03 +0000</pubDate>
+        <lastBuildDate>Wed, 11 Dec 2019 00:33:03 +0000</lastBuildDate>
+        
+            <item>
+                <title>Genome analysis of deep sea piezotolerant Nesiotobacter exalbescens COD22 and toluene degradation studies under high pressure condition</title>
+                <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-55115-9</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-55115-9</guid>
+            </item>
         
             <item>
                 <title>Long-term stability and Red Queen-like strain dynamics in marine viruses</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41396-019-0537-2</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41396-019-0537-2</guid>
-            </item>
-        
-            <item>
-                <title>Phytoplankton community and algal toxicity at a recurring bloom in Sullivan Bay, Kabetogama Lake, Minnesota, USA</title>
-                <pubDate>Wed, 6 Nov 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-52639-y</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-52639-y</guid>
             </item>
         
     </channel>
