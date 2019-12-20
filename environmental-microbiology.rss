@@ -5,8 +5,16 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Thu, 19 Dec 2019 01:01:45 +0000</pubDate>
-        <lastBuildDate>Thu, 19 Dec 2019 01:01:45 +0000</lastBuildDate>
+        <pubDate>Fri, 20 Dec 2019 00:29:27 +0000</pubDate>
+        <lastBuildDate>Fri, 20 Dec 2019 00:29:27 +0000</lastBuildDate>
+        
+            <item>
+                <title>Faecal pollution affects abundance and diversity of aquatic microbial community in anthropo-zoogenically influenced lotic ecosystems</title>
+                <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-019-56058-x</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-019-56058-x</guid>
+            </item>
         
             <item>
                 <title>Succession of microbial populations and nitrogen-fixation associated with the biodegradation of sediment-oil-agglomerates buried in a Florida sandy beach</title>
@@ -238,14 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-51432-1</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-51432-1</guid>
-            </item>
-        
-            <item>
-                <title>A thraustochytrid-specific lipase/phospholipase with unique positional specificity contributes to microbial competition and fatty acid acquisition from the environment</title>
-                <pubDate>Fri, 8 Nov 2019 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-52854-7</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-52854-7</guid>
             </item>
         
     </channel>
