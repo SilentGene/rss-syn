@@ -5,8 +5,48 @@
         <link>https://www.nature.com/subjects/environmental-microbiology</link>
         <description>Latest news and research from Nature.com on the topic of Environmental microbiology</description>
         <ttl>60</ttl>
-        <pubDate>Mon, 10 Feb 2020 01:56:33 +0000</pubDate>
-        <lastBuildDate>Mon, 10 Feb 2020 01:56:33 +0000</lastBuildDate>
+        <pubDate>Wed, 12 Feb 2020 02:15:11 +0000</pubDate>
+        <lastBuildDate>Wed, 12 Feb 2020 02:15:11 +0000</lastBuildDate>
+        
+            <item>
+                <title>Trait-Based Comparison of Coral and Sponge Microbiomes</title>
+                <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-020-59320-9</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-020-59320-9</guid>
+            </item>
+        
+            <item>
+                <title>Author Correction: Cryptic inoviruses revealed as pervasive in bacteria and archaea across Earth’s biomes</title>
+                <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41564-020-0681-5</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41564-020-0681-5</guid>
+            </item>
+        
+            <item>
+                <title>Coexistence of the blaNDM-1-carrying plasmid pWLK-NDM and the blaKPC-2-carrying plasmid pWLK-KPC in a Raoultella ornithinolytica isolate</title>
+                <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-020-59341-4</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-020-59341-4</guid>
+            </item>
+        
+            <item>
+                <title>Physicochemical characterization of Pseudomonas stutzeri UFV5 and analysis of its transcriptome under heterotrophic nitrification/aerobic denitrification pathway induction condition</title>
+                <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41598-020-59279-7</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41598-020-59279-7</guid>
+            </item>
+        
+            <item>
+                <title>The thermoacidophilic methanotroph Methylacidiphilum fumariolicum SolV oxidizes subatmospheric H2 with a high-affinity, membrane-associated [NiFe] hydrogenase</title>
+                <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+                <link>https://www.nature.com/articles/s41396-020-0609-3</link>
+                <description/>
+                <guid>https://www.nature.com/articles/s41396-020-0609-3</guid>
+            </item>
         
             <item>
                 <title>Mixotrophy in marine picocyanobacteria: use of organic compounds by Prochlorococcus and Synechococcus</title>
@@ -206,46 +246,6 @@
                 <link>https://www.nature.com/articles/s41598-019-57210-3</link>
                 <description/>
                 <guid>https://www.nature.com/articles/s41598-019-57210-3</guid>
-            </item>
-        
-            <item>
-                <title>Extracellular electron uptake in Methanosarcinales is independent of multiheme c-type cytochromes</title>
-                <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41598-019-57206-z</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41598-019-57206-z</guid>
-            </item>
-        
-            <item>
-                <title>Ecology of the plastisphere</title>
-                <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41579-019-0308-0</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41579-019-0308-0</guid>
-            </item>
-        
-            <item>
-                <title>Controlled sampling of ribosomally active protistan diversity in sediment-surface layers identifies putative players in the marine carbon sink</title>
-                <pubDate>Thu, 9 Jan 2020 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0581-y</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0581-y</guid>
-            </item>
-        
-            <item>
-                <title>Mineralization versus fermentation: evidence for two distinct anaerobic bacterial degradation pathways for dichloromethane</title>
-                <pubDate>Mon, 6 Jan 2020 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0579-5</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0579-5</guid>
-            </item>
-        
-            <item>
-                <title>Evidence for phylogenetically and catabolically diverse active diazotrophs in deep-sea sediment</title>
-                <pubDate>Mon, 6 Jan 2020 00:00:00 +0000</pubDate>
-                <link>https://www.nature.com/articles/s41396-019-0584-8</link>
-                <description/>
-                <guid>https://www.nature.com/articles/s41396-019-0584-8</guid>
             </item>
         
     </channel>
